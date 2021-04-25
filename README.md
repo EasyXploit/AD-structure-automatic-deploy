@@ -1,6 +1,5 @@
 # AD-structure-automatic-deploy
-A set of powershell scripts that allow automation of the deployment of an active directory structure.
-(Developed as part of an educational program).
+A set of powershell scripts that allow automation of the deployment of an active directory structure (developed as part of an educational program).
 
 **ATTENTION:** Comments are in Spanish
 | File | Description |
