@@ -1,7 +1,8 @@
 # AD-structure-automatic-deploy
 A set of powershell scripts that allow automation of the deployment of an active directory structure (developed as part of an educational program).
 
-**ATTENTION:** Comments are in Spanish
+> **ATTENTION:** Comments are in Spanish
+
 | File | Description |
 |--|--|
 | script.ps1 | The main script that generates the object structure in the active directory |
